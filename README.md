@@ -4,4 +4,4 @@ De lo contrario usted podra prender el servidor que laravel proporciona utilizan
 Dentro de la carpeta del proyecto hay un archivo llamado storeline.sql el cual contiene el scrip de la esctructura con datos y tablas de la base de datos del sistema
 Debe abrir el archivo y ejecytarlo en su mysql yog para que conecte con la base de datos 
 En el archivo .env usted debe cambiar las variables deconexion de la base de datos debe poner la direccion de su localhost, el usuario y la contraseña de su mysql y el nombre de la base de datos que acaba de crear. 
-Una vez terminado esto usted podria ejecutar el comando del punto numero 2 o bien entrar a su local jost en el navegador y ya podrá visualizar el proyecto funcionando. 
+Una vez terminado esto usted podria ejecutar el comando del punto numero 2 o bien entrar a su localhost en el navegador y ya podrá visualizar el proyecto funcionando. 
